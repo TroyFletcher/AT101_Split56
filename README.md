@@ -4,7 +4,7 @@ _Physical Layer Layout_
     
     Layer 0
     
-    Layer j
+    Layer 1
     Mply  F1  F2  F3  A+F4  F5  F6          F7  F8  F9   F10    F11 F12 
     Tab  Esc  FN3 EnterApp  T             Y   U   M4  M5    Play    Vol- Vol+
     Ctrl A+Tab Tab C+L  F   G               Lf  Dn  Up    Rt     ;: Enter
