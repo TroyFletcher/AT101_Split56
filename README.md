@@ -14,14 +14,21 @@ _Physical Layer Layout_
 _Notes on Layer 1_
 
 4 to Alt F4 seemed obvious since I don't use F4 for anything else
+
 A to Alt+Tab as a quick switch in windows.
+
 D to Ctrl+L evolved from Alt+D to get to the URL bar, but Ctrl+L is more universal and reliable in windows which chokes on Alts some times
+
 C and V to Ctrl+C and V are easy shortcuts when you're already holding down FN
 
 HJKL to arrow keys because Vim
+
 N and M to Del and Backspace keep those keys near eachother and make Control on the left easier
+
 < and > to Ctrl+Shift+Tab and Ctrl+Tab is about switching between browser tabs easily
+
 i and o are macros to Ctrl+B,p (switch to prevous buffer in tmux) and Ctrl+B,Ctrl+o (switch panes and focus on new pane)
+
 ' to enter is trying to work around the muscle memory. It's not working so far.
 
     
