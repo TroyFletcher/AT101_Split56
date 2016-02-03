@@ -19,7 +19,7 @@ Physical Layer Layout
     Ctrl A+Tab Tab C+L A+F  A+G               Lf  Dn  Up    Rt     ;: Enter
     Shift Z    X  C+C  C+V   B               Del Bksp C+S+Tab C+Tab  /? 
                              Alt        FN2
-                           App  FN  Space  Mute
+                           App  FN A+Space  Mute
 _Notes on Layer 1_
 
 4 to Alt F4 seemed obvious since I don't use F4 for anything else
@@ -44,6 +44,8 @@ i and o are macros to Ctrl+B,p (switch to prevous buffer in tmux) and Ctrl+B,Ctr
 
 ' to enter is trying to work around the muscle memory. It's not working so far.
 
+Space to Alt+Space is to open the windows context menu
+
     
     Layer 2
     MrecM11 M12 M13  4$  5%  6^          7&    8*    9(    0) Conf   BOOT 
@@ -64,3 +66,7 @@ Issues
 *Caps Lock* has that silly divot between it and the A, and makes me reach further. The profile of the key doesn't make turning it over much of a solution. Might have to fill it in or chop the original enter key (same row/profile) down and put it there.
 
 The rotation of the left side is making my muscle memory for some "inside" control functions harder. Mostly Cut and Undo. I might have to function key those as I have Copy and Paste
+
+Ergonomics Notes
+================
+Still figuring out the most at-rest position for everything. Both thumb clusters need to move inward, particularly the left one, which I didn't realize was so far over
