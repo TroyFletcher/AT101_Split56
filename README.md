@@ -10,16 +10,52 @@ Build log album: https://imgur.com/a/M6PMB
 
 Physical Layer Layout
 =====================
-    
+_Notes on the Physical Layout_
+
+The presumption of the layout is that the top most keys in the thumb clusters (Alt
+and FN2 in this case) are the most easily accessible secondary cluster keys for
+your thumbs, and the long keys (FN, right Space) are where your thumbs rest. If the
+bottom secondary key is easier to press for your thumbs and your ergos, swap Alt
+for Space and FN2 for \|. Also keep in mind there are keys you'll press and hold
+while reaching (FN2 for example) and keeping those higher will probably be more
+comfortable.
+
     Layer 0
     
+    `~  1!  2@  3#  4$  5% 6^         7&  8*  9(  0)  -_  =+ 
+    Tab  Q   W   E   R   T            Y   U   I   O   P   [{  ]} 
+    Ctrl A   S   D   F   G             H   J   K   L   ;:  '" 
+    Shift Z   X   C   V   B              N   M   ,<  .>  /? 
+                           Alt        FN2
+                       Space  FN  Space \|
+
+_Notes on Layer 0_
+
+**Missing keys**
+The default layer is missing Enter, Backspace, Right Shift, all Windows (GUI)
+keys, all function keys, arrows, and the Home/End cluster. These have been given a
+high priority on the first function layer (FN1), which means your thumb needs to be
+quick on the FN1 key to maintain basic function. You may consider using a lighter
+switch for that key.
+
+Left Space is primarily for scrolling (space on a webpage scrolls down, Shift+space
+scrolls up) when your right hand is already on the mouse. This might not be part of
+your workflow, in which case, it was previously an App key.
+
+    
+
+
+  
+    
     Layer 1
+
     Mply  F1  F2  F3  A+F4  F5  F6          F7  F8  F9   F10    F11 F12 
     Tab  Esc  FN3 EnterApp  T             Y   U   M4  M5    Play    Vol- Vol+
     Ctrl A+Tab Tab C+L A+F  A+G               Lf  Dn  Up    Rt     ;: Enter
     Shift Z    X  C+C  C+V   B               Del Bksp C+S+Tab C+Tab  /? 
-                             Alt        FN2
-                           App  FN A+Space  Mute
+                             Alt         FN2
+                        Space  FN  A+Space  Mute
+
 _Notes on Layer 1_
 
 4 to Alt F4 seemed obvious since I don't use F4 for anything else
@@ -34,6 +70,10 @@ G to Alt+G is a native shortcut within Siebel, probably not useful to many
 
 C and V to Ctrl+C and V are easy shortcuts when you're already holding down FN
 
+W to Function Layer 3 (FN3) is for mouse control and was selected because it was
+comfortable to hold. You may prefer to swap it for E if your middle finger is
+easier to hold here.
+
 HJKL to arrow keys because Vim
 
 N and M to Del and Backspace keep those keys near eachother and make Control on the left easier
@@ -44,18 +84,63 @@ i and o are macros to Ctrl+B,p (switch to prevous buffer in tmux) and Ctrl+B,Ctr
 
 ' to enter is trying to work around the muscle memory. It's not working so far.
 
+Mply is the live macro playback, and was selected on a tenkeyless layout, which put
+the function an ~ closer together. Not sure if it'll survive here or be moved.
+
 Space to Alt+Space is to open the windows context menu
 
-    
     Layer 2
-    MrecM11 M12 M13  4$  5%  6^          7&    8*    9(    0) Conf   BOOT 
-     M7  M1  M2  M3  R   M6             Y     U     I     O   P C+A+Del W+L 
-     Ctrl A   S   F   D   G              Home PgDn PgUp  End  ;: Alt 
-     Shift Z   X   C   V   B               N   M  C+PgUp C+PgDn /? 
-                            Alt        FN2
-                          App  FN  Space  \|
+    
+    Mrec 1!  2@  3# 4$  5%  6^      7&   8*  9(   0) Conf BOOT
+    M7  M1  M2  M3  W+R  M6          Y    U    I    O  PtSc C+A+Del W+L
+    Ctrl A   S   F   D   G          Home PgDn PgUp End  ;:  Enter 
+    Shift Z   X   C   V   B           N    M   C+PgUp C+PgDn /? 
+                            Alt         FN2
+                          App  FN   Space  \|
 
 _Notes on Layer 2_
+
+Mrec is the live macro playback, and was selected on a tenkeyless layout, which put
+the function an ~ closer together. Not sure if it'll survive here or be moved.
+
+Q is M1 which is a macro which prints my email address.
+
+W is M2 which is \ESC,:w\ENTER, which saves in vim. It helps that it's W
+
+E is M3 which is exec('''\CTRL(v)''')\ENTER, which runs the pasted block of code in
+Python IDLE, which can't handle the newlines of a regular paste.
+
+R is Win(GUI)+R to open a Run dialog in windows, which is one of the few things I
+actually use the windows key for.
+
+T is M6 which is [^\\,t]+\\,t which is a regex I repeat commonly and is annoying to
+type out repeatedlly.
+
+[ and ] are CTRL+ALT+Delete (which is hard to type on this layout), and Window+L to
+lock your screen (The second and only other reason I use the windows key.
+
+< and > become CTRL+Page Up and Down to flip between excel sheets easily. Depending
+on which you use more, you might want to swap these with the same keys on layer 1
+if you Excel more than you tab browse.
+
+    Layer 3
+    
+     `~  1!  2@  3#  4$  5%  6^        7&  8*  9(  M14 Conf Boot
+    Tab  Q  FN3  E   R   T            Y   U   I   O  PtSc [{  ]}
+    Ctrl A   S   F   D   G           Mlf Mdn Mup Mrt MB1 MB2 
+    Shift Z   X   C   V   B             N   M   ,<  .>  /? 
+                            Alt         FN2
+                          App  FN   Space  \|
+
+_Notes on Layer 3_
+
+Layer 3 is generally mouse control and less used macros.
+
+HJKL have been changed to arrow keys for mouse movement with ; and ' being used for
+left mouse and right mouse. The pinky is not ideal for many presses, so "I" might be
+better if you use the mouse to click often. Also note, HJKL does not support common
+diagonal movement without moving fingers from the home row. You might be more
+familiar with a wasd to ijkl style layout.
 
 Issues
 ======
