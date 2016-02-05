@@ -144,14 +144,31 @@ familiar with a wasd to ijkl style layout.
 
 Issues
 ======
-*Enter key* is bugging me. There is room to weld on another switch holder from the pieces of the plate I have left without increasing the footprint much, but I might just need more practice. Logically, the extra key can be the phantom key left of N. (which was originally intended to be a fourth key on the left thumb cluster) Until then, my right pinky just falls off into the abyss like when you go up the last step in a staircase, and think there is another step and your foot falls straight through your perception of reality.  
+*Enter key* is bugging me. There is room to weld on another switch holder from
+the pieces of the plate I have left without increasing the footprint much, but I
+might just need more practice. Logically, the extra key can be the phantom key
+left of N. (which was originally intended to be a fourth key on the left thumb
+cluster) Until then, my right pinky just falls off into the abyss like when you
+go up the last step in a staircase, and think there is another step and your foot
+falls straight through your perception of reality.  
 
-*Right shift* missing is a bit odd reaching for ~ or !. I dropped it off without worry given there was zero visible wear on my QFR's right shift.
+*Right shift* missing is a bit odd reaching for ~ or !. I dropped it off without
+worry given there was zero visible wear on my QFR's right shift.
 
-*Caps Lock* has that silly divot between it and the A, and makes me reach further. The profile of the key doesn't make turning it over much of a solution. Might have to fill it in or chop the original enter key (same row/profile) down and put it there.
+*Caps Lock* has that silly divot between it and the A, and makes me reach
+further. The profile of the key doesn't make turning it over much of a solution.
+Might have to fill it in or chop the original enter key (same row/profile) down
+and put it there.
 
-The rotation of the left side is making my muscle memory for some "inside" control functions harder. Mostly Cut and Undo. I might have to function key those as I have Copy and Paste
+The rotation of the left side is making my muscle memory for some "inside"
+control functions harder. Mostly Cut and Undo. I might have to function key those
+as I have Copy and Paste
 
 Ergonomics Notes
 ================
-Still figuring out the most at-rest position for everything. Both thumb clusters need to move inward, particularly the left one, which I didn't realize was so far over
+Still figuring out the most at-rest position for everything. Both thumb clusters
+need to move inward, particularly the left one, which I didn't realize was so far
+over
+
+*The FN switch is TOO tactile*I actually think the function key needs to be more worn out. I press it so much
+I'm catching failures to press it.
