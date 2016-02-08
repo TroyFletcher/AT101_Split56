@@ -10,6 +10,9 @@ Build log album: https://imgur.com/a/M6PMB
 
 Physical Layer Layout
 =====================
+
+![Physical to logical matrix layout](https://raw.githubusercontent.com/FletchINKy/AT101_Split56/master/Config_Matrix_to_Physical.png)
+
 _Notes on the Physical Layout_
 
 The presumption of the layout is that the top most keys in the thumb clusters (Alt
