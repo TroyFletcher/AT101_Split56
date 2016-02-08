@@ -1,6 +1,8 @@
 AT101_Split56
 =============
 
+![Before and After](https://raw.githubusercontent.com/FletchINKy/AT101_Split56/master/before_after.png)
+
 *Easy AVR Install instructions*
 
 Put or otherwise copy the contents of the handwire.cfg and handwire_hardware.cfg files to easy AVR's config directory. You may need to modify your handwire_hardware.cfg file to reflect the appropriate pins you use on your teensy. Two of the columns experienced issues with my teens, so I moved them, making it a little harder to wire and less logical. 
