@@ -171,6 +171,12 @@ The rotation of the left side is making my muscle memory for some "inside"
 control functions harder. Mostly Cut and Undo. I might have to function key those
 as I have Copy and Paste
 
+Considering some kind of mouse-assist layer for common functions I need when my
+right hand is on the mouse. Ideally F3 since it's so unused on the left side.
+Stuff like Delete, Backspace, possibly arrows. I'm trying to keep a record of
+whenever I have to take my hand off the mouse to press a key on the right side.
+Which is somewhat easy because it's annoying for me to have to do.
+
 Ergonomics Notes
 ================
 Still figuring out the most at-rest position for everything. Both thumb clusters
