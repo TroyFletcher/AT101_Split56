@@ -25,7 +25,7 @@ for Space and FN2 for \|. Also keep in mind there are keys you'll press and hold
 while reaching (FN2 for example) and keeping those higher will probably be more
 comfortable.
 
-[GUI Layout on Keyboard-Layout-Editor.com](http://www.keyboard-layout-editor.com/#/gists/4ee859fd40c0fa56aad4)
+#[GUI Layout on Keyboard-Layout-Editor.com](http://www.keyboard-layout-editor.com/#/gists/4ee859fd40c0fa56aad4)
 
     Layer 0
     
