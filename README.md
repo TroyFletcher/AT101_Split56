@@ -185,3 +185,8 @@ over
 
 *The FN switch is TOO tactile*I actually think the function key needs to be more worn out. I press it so much
 I'm catching failures to press it.
+
+After using #[tins](http://i.imgur.com/aAzhRBe.jpg) to raise the angle of both sides, I found it quite comfortable
+and only noticed wrist issues at the end of the day, but they were cumbersome to carry and kind of noisy, so I
+tried taking them away and running them tented slightly against the laptop. Immediately the wrist issues increased,
+so I'm going to find a way to #[flat-pack](http://www.instructables.com/id/Laser-Cut-Phone-Stand-1/) or flip-out stands for both sides.
