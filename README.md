@@ -159,6 +159,10 @@ cluster) Until then, my right pinky just falls off into the abyss like when you
 go up the last step in a staircase, and think there is another step and your foot
 falls straight through your perception of reality.  
 
+Latest: The enter key is becoming an issue. Much like I slur the spacebar (which,
+incidentally prevents me from using it as a tap key) I slur the enter key, which
+requires I press the FN key, which changes the other keys I may be typing.
+
 *Right shift* missing is a bit odd reaching for ~ or !. I dropped it off without
 worry given there was zero visible wear on my QFR's right shift.
 
@@ -183,10 +187,13 @@ Still figuring out the most at-rest position for everything. Both thumb clusters
 need to move inward, particularly the left one, which I didn't realize was so far
 over
 
-*The FN switch is TOO tactile*I actually think the function key needs to be more worn out. I press it so much
-I'm catching failures to press it.
+*The FN switch is TOO tactile*I actually think the function key needs to be more
+worn out. I press it so much I'm catching failures to press it.
 
-After using [tins](http://i.imgur.com/aAzhRBe.jpg) to raise the angle of both sides, I found it quite comfortable
-and only noticed wrist issues at the end of the day, but they were cumbersome to carry and kind of noisy, so I
-tried taking them away and running them tented slightly against the laptop. Immediately the wrist issues increased,
-so I'm going to find a way to [flat-pack](http://www.instructables.com/id/Laser-Cut-Phone-Stand-1/) or flip-out stands for both sides.
+After using [tins](http://i.imgur.com/aAzhRBe.jpg) to raise the angle of both
+sides, I found it quite comfortable and only noticed wrist issues at the end of
+the day, but they were cumbersome to carry and kind of noisy, so I tried taking
+them away and running them tented slightly against the laptop. Immediately the
+wrist issues increased, so I'm going to find a way to
+[flat-pack](http://www.instructables.com/id/Laser-Cut-Phone-Stand-1/) or flip-out
+stands for both sides.
