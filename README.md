@@ -5,7 +5,11 @@ AT101 Split56 "GhettoDox"
 
 *Easy AVR Install instructions*
 
-Put or otherwise copy the contents of the handwire.cfg and handwire_hardware.cfg files to easy AVR's config directory. You may need to modify your handwire_hardware.cfg file to reflect the appropriate pins you use on your teensy. Two of the columns experienced issues with my teens, so I moved them, making it a little harder to wire and less logical. 
+Put or otherwise copy the contents of the handwire.cfg and handwire_hardware.cfg
+files to easy AVR's config directory. You may need to modify your
+handwire_hardware.cfg file to reflect the appropriate pins you use on your
+teensy. Two of the columns experienced issues with my teens, so I moved them,
+making it a little harder to wire and less logical. 
 
 Build log album: https://imgur.com/a/M6PMB
 
@@ -17,13 +21,13 @@ Physical Layer Layout
 ![Matrix and layout](https://raw.githubusercontent.com/FletchINKy/AT101_Split56/master/plotting_AT101_dox_layout.png)
 _Notes on the Physical Layout_
 
-The presumption of the layout is that the top most keys in the thumb clusters (Alt
-and FN2 in this case) are the most easily accessible secondary cluster keys for
-your thumbs, and the long keys (FN, right Space) are where your thumbs rest. If the
-bottom secondary key is easier to press for your thumbs and your ergos, swap Alt
-for Space and FN2 for \|. Also keep in mind there are keys you'll press and hold
-while reaching (FN2 for example) and keeping those higher will probably be more
-comfortable.
+The presumption of the layout is that the top most keys in the thumb clusters
+(Alt and FN2 in this case) are the most easily accessible secondary cluster keys
+for your thumbs, and the long keys (FN, right Space) are where your thumbs rest.
+If the bottom secondary key is easier to press for your thumbs and your ergos,
+swap Alt for Space and FN2 for \|. Also keep in mind there are keys you'll press
+and hold while reaching (FN2 for example) and keeping those higher will probably
+be more comfortable.
 
 #[GUI Layout on Keyboard-Layout-Editor.com](http://www.keyboard-layout-editor.com/#/gists/4ee859fd40c0fa56aad4)
 
@@ -40,14 +44,14 @@ _Notes on Layer 0_
 
 **Missing keys**
 The default layer is missing Enter, Backspace, Right Shift, all Windows (GUI)
-keys, all function keys, arrows, and the Home/End cluster. These have been given a
-high priority on the first function layer (FN1), which means your thumb needs to be
-quick on the FN1 key to maintain basic function. You may consider using a lighter
-switch for that key.
+keys, all function keys, arrows, and the Home/End cluster. These have been given
+a high priority on the first function layer (FN1), which means your thumb needs
+to be quick on the FN1 key to maintain basic function. You may consider using a
+lighter switch for that key.
 
-Left Space is primarily for scrolling (space on a webpage scrolls down, Shift+space
-scrolls up) when your right hand is already on the mouse. This might not be part of
-your workflow, in which case, it was previously an App key.
+Left Space is primarily for scrolling (space on a webpage scrolls down,
+Shift+space scrolls up) when your right hand is already on the mouse. This might
+not be part of your workflow, in which case, it was previously an App key.
 
     
 
@@ -69,7 +73,8 @@ _Notes on Layer 1_
 
 A to Alt+Tab as a quick switch in windows.
 
-D to Ctrl+L evolved from Alt+D to get to the URL bar, but Ctrl+L is more universal and reliable in windows which chokes on Alts some times
+D to Ctrl+L evolved from Alt+D to get to the URL bar, but Ctrl+L is more
+universal and reliable in windows which chokes on Alts some times
 
 F to Alt+F is to shortcut to the File menubar
 
@@ -83,11 +88,13 @@ easier to hold here.
 
 HJKL to arrow keys because Vim
 
-N and M to Del and Backspace keep those keys near eachother and make Control on the left easier
+N and M to Del and Backspace keep those keys near eachother and make Control on
+the left easier
 
 < and > to Ctrl+Shift+Tab and Ctrl+Tab is about switching between browser tabs easily
 
-i and o are macros to Ctrl+B,p (switch to prevous buffer in tmux) and Ctrl+B,Ctrl+o (switch panes and focus on new pane)
+i and o are macros to Ctrl+B,p (switch to prevous buffer in tmux) and
+Ctrl+B,Ctrl+o (switch panes and focus on new pane)
 
 ' to enter is trying to work around the muscle memory. It's not working so far.
 
