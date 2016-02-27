@@ -156,6 +156,21 @@ better if you use the mouse to click often. Also note, HJKL does not support com
 diagonal movement without moving fingers from the home row. You might be more
 familiar with a wasd to ijkl style layout.
 
+Mouse assist mode
+=================
+
+I'm testing setting layer 3 left side with a toggle for common functions I need
+to do with my right hand while it's on the mouse. Important keys like arrows,
+backspace, delete, browser tab change *(that isn't home-row-moving like Ctrl+Tab or
+Shift+Ctrl+Tab)*, Page up/down, or Siebel record changes *(Alt+< or >)* should be
+accessible from the left side _only_ while mousing with the right hand. Since the
+layer is toggled and "locked" while it's on, I've set the lone LED to turn on when
+it's on to indicate the mode so I don't get lost. Interestingly, the momentary
+key FN3 toggle (FN+W) works perfectly for keyboard mouse controls when my right
+hand is on the keyboard though on FN3 the W is assigned to the WASD arrow
+cluster. It works as a temporary on, while FN+B=FN3 (with Easy AVR Toggle mode)
+on both FN and FN3, work great. Once I lock on the layout, I'll update it here.
+
 Issues
 ======
 *Enter key* is bugging me. There is room to weld on another switch holder from
