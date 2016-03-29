@@ -219,3 +219,7 @@ them away and running them tented slightly against the laptop. Immediately the
 wrist issues increased, so I'm going to find a way to
 [flat-pack](http://www.instructables.com/id/Laser-Cut-Phone-Stand-1/) or flip-out
 stands for both sides.
+
+Other Files
+===========
+kerf test is an SVG of 9 Alps switch holes generated with swill's board maker with various kerf settings. They vary from .1mm to .9mm in the order of a telephone; .1 in the top left, .3 in the top right, .9 in the bottom right. Make sure you test both sides of the material you cut into. Thicker materials may have different kerf on top vs bottom.
