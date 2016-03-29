@@ -2,6 +2,7 @@ AT101 Split56 "GhettoDox"
 =============
 
 ![Before and After](https://raw.githubusercontent.com/FletchINKy/AT101_Split56/master/before_after.png)
+![Latest update](https://raw.githubusercontent.com/FletchINKy/AT101_Split56/master/20160329_005304(0).jpg)
 
 *Easy AVR Install instructions*
 
