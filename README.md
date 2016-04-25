@@ -17,7 +17,7 @@ Build log album: https://imgur.com/a/M6PMB
 
 Physical Layer Layout
 =====================
-
+![Easy AVR display](https://github.com/FletchINKy/AT101_Split56/blob/master/Aguila_EasyAVR.png)
 ![Physical to logical matrix layout](https://raw.githubusercontent.com/FletchINKy/AT101_Split56/master/Config_Matrix_to_Physical.png)
 ![Matrix and layout](https://raw.githubusercontent.com/FletchINKy/AT101_Split56/master/plotting_AT101_dox_layout.png)
 _Notes on the Physical Layout_
